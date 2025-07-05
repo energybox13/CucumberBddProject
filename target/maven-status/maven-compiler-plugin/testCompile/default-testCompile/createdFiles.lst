@@ -1,0 +1,5 @@
+stepdefinitions\BaseClass.class
+Pageobject\Loginpage.class
+TestRunner\Runner.class
+WebpageAutomate\WebpageAutomate\AppTest.class
+stepdefinitions\Login.class

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.893">
-<testcase classname="Login functionality" name="Login with valid credentials" time="12.688">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.513">
+<testcase classname="Login functionality" name="Login with valid credentials" time="14.274">
 <system-out><![CDATA[Given User launch chrome browser............................................passed
 When User open url "https://admin-demo.nopcommerce.com".....................passed
 And User has entered valid email address "admin@yourstore.com"..............passed

@@ -1,0 +1,2 @@
+cd C:\Users\praso\OneDrive\Desktop\AchalCucumberProj\WebpageAutomate
+mvn test
